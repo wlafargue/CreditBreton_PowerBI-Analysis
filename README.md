@@ -1,4 +1,4 @@
-# Dashboard Credit Breton (in French)
+# PowerBI dashboard on Credit Breton data (in French)
 
 Data Analysis for finance consists in exploring data for preparing strategy reports, marketing studies and elaborating dashboards to help in decision making. 
 
