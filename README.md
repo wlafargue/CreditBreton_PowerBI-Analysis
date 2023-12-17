@@ -16,3 +16,5 @@ This dashboard has been created based on the OpenClassrooms course [Realisez des
 ![Indicateurs clients](pictures/04.png)
 
 ![Liste des clients](pictures/05.png)
+
+![Tables](pictures/06.png)
